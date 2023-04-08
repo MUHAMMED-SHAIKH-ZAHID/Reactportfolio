@@ -15,7 +15,7 @@ const Portfolio = () => {
             src: navbar,
             link:"https://github.com/MUHAMMED-SHAIKH-ZAHID/Social-Media",
             demo:"https://socialmedia123.netlify.app/auth",
-            name:" Social Media app"
+            name:" Social Media -app"
         },
         {
             id: 2,
@@ -28,7 +28,7 @@ const Portfolio = () => {
             id: 3,
             src: navbar3,
             link:"https://github.com/MUHAMMED-SHAIKH-ZAHID/blackclothing.store",
-            demo:"https://anasparambadan.github.io/yt-clone/",
+            demo:"https://parambadan.github.io/yt-clone/",
             name:"youTube-clone"
             
         },
@@ -49,7 +49,7 @@ const Portfolio = () => {
         {
             id: 6,
             src: navbar6,
-            link:"https://github.com/anasparambadan/todo-list-react-2.git",
+            link:"https://github.com/parambadan/todo-list-react-2.git",
             demo:"https://scheduletodo.netlify.app/",
             name:"Todo-list"
         },
