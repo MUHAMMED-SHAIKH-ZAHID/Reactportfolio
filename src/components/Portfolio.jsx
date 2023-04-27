@@ -21,7 +21,7 @@ const Portfolio = () => {
             id: 2,
             src: navbar2,
             link:"https://github.com/MUHAMMED-SHAIKH-ZAHID/blackclothing.store",
-            demo:"https://www.blackclothing.store/",
+            demo:"https://blackclothing.onrender.com/",
             name:"Blackclothing - Ecommerce website"
         },
         {
